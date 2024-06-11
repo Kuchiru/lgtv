@@ -1,6 +1,7 @@
 # lgtv
 
-Forked from webostv component to add media player state.
+Forked from webostv component to add media player state by Rale.
+Adjusted for internal API adjustments using SSAP for a rooted WebOS TV.
 
 
 ## Installation
