@@ -2,8 +2,11 @@
 
 Forked from webostv component to add media player state by Rale.
 
-Adjusted for internal API adjustments using SSAP for a rooted WebOS TV.
+This Modification **will not work** if you have not modified your webOS TV as stated in the GIST below.
 
+Adjusted for internal API adjustments using SSAP for a rooted WebOS TV.
+Follow the instructions in this GIST to make your TV broadcast the media states.
+https://gist.github.com/Kuchiru/55e1b509a85cbece056dc7196d5c7385
 
 ## Installation
 
