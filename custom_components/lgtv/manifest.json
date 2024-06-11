@@ -2,12 +2,12 @@
   "domain": "lgtv",
   "name": "LG TV",
   "version": "0.0.1",
-  "codeowners": ["@rale"],
+  "codeowners": ["@kuchiru"],
   "config_flow": true,
-  "documentation": "https://github.com/rale/lgtv",
+  "documentation": "https://github.com/kuchiru/lgtv",
   "iot_class": "local_push",
   "loggers": ["aiolgtv"],
-  "requirements": ["aiolgtv @ git+https://github.com/rale/aiolgtv.git"],
+  "requirements": ["aiolgtv @ git+https://github.com/kuchiru/aiolgtv.git"],
   "ssdp": [
     {
       "st": "urn:lge-com:service:webos-second-screen:1"
