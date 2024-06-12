@@ -23,5 +23,5 @@ https://gist.github.com/Kuchiru/55e1b509a85cbece056dc7196d5c7385
 
 ### Caveats
 
-- The modifications to your TV will require a service restart, the TV will appear to be off during this restart. You can set a duration on the off trigger in HA Automations to work around false off triggers. for my TV 7 seconds was enough.
+- The modifications to your TV will require a service restart on each power on, this means the TV will appear to be off during this restart. You can set a duration on the off trigger in HA Automations to work around false 'off' triggers. for my TV 7 seconds was enough.
 - Idle state does not work, you can work around this by triggering any idle actions with a duration on the paused state.
